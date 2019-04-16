@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "577875297786",
+    "firebase_url": "https://forge-1a6ce.firebaseio.com",
+    "project_id": "forge-1a6ce",
+    "storage_bucket": "forge-1a6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577875297786:android:c018226146055693",
+        "android_client_info": {
+          "package_name": "com.example.divya.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577875297786-gov2mmcbsfv43vjvqgum8pni4tlisoti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divya.business",
+            "certificate_hash": "fd877cf40e18af9cfb45f7a21be8d3661bc338d6"
+          }
+        },
+        {
+          "client_id": "577875297786-5amf442f4a7ddalh155ued5dttptdfoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxWuXM3xa7zU0X4_66STR3QOH6NhT6_60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577875297786-5amf442f4a7ddalh155ued5dttptdfoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
