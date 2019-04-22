@@ -54,6 +54,7 @@ public class activity_first extends AppCompatActivity  implements NavigationView
             case R.id.gie:
                 Intent i = new Intent(this, activity_gie.class);
                 startActivity(i);
+                finish();
                 break;
             case R.id.leader:
                 Intent l = new Intent(this, activity_leader.class);

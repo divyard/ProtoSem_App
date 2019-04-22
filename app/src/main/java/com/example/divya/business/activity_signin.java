@@ -73,6 +73,7 @@ public class activity_signin extends AppCompatActivity {
     public void openActivity2() {
         Intent intent = new Intent(this, activity_signup.class);
         startActivity(intent);
+        finish();
     }
 
     private void login() {
